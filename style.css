@@ -21,6 +21,7 @@ body {
 
 .card {
     /* min-width: 327px; */
+    border: 1px solid var(--Dark-grey);
     max-width: 384px;
     background-color: var(--White);
     display: flex;
